@@ -20,7 +20,7 @@
               {
                 "id": "EX-01_smt",
                 "name": "statement",
-                "prose": "Für [SYSTEMNAME] müssen Datensicherungen mindestens alle {{ insert: param, EX-01_prm1 }} erstellt und regelmäßig auf Wiederherstellbarkeit geprüft werden."
+                "prose": "Für [SYSTEM] müssen Datensicherungen mindestens alle {{ insert: param, EX-01_prm1 }} erstellt und regelmäßig auf Wiederherstellbarkeit geprüft werden."
               }
             ],
             "params": [
@@ -40,7 +40,7 @@
               {
                 "id": "EX-02_smt",
                 "name": "statement",
-                "prose": "Zugriff auf [SYSTEMNAME] ist auf berechtigte Benutzerinnen und Benutzer zu beschränken."
+                "prose": "Zugriff auf [SYSTEM] ist auf berechtigte Benutzerinnen und Benutzer zu beschränken."
               },
               {
                 "id": "EX-02_gdn",
